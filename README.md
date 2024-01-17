@@ -2,7 +2,11 @@
 https://www.figma.com/proto/0m67vtMsMvqAaHgyncfsTD/Untitled?page-id=0%3A1&type=design&node-id=85-44&viewport=-244%2C-19%2C0.37&t=eq8K0mrbYlR2cDvJ-1&scaling=scale-down&mode=design
 
 Overview :
-https://github.com/NikitaKhuspe1729/Carousel_scrolling_UI-FIGMA/assets/125488086/a6bae7e6-5300-43d9-b89d-3e9828e95d55
+
+
+
+https://github.com/NikitaKhuspe1729/Carousel_scrolling_UI-FIGMA/assets/125488086/c48417a7-326e-4e44-8fe1-830b6030320b
+
 
 
 Pages :
