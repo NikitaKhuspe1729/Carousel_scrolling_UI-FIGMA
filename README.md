@@ -2,7 +2,7 @@
 Created a beautiful carousel scroller using draging option.Animations are most basic part of this project.I'd used some basic animations and functions of FIGMA.
 
 
-https://www.figma.com/proto/0m67vtMsMvqAaHgyncfsTD/Untitled?page-id=0%3A1&type=design&node-id=85-44&viewport=-244%2C-19%2C0.37&t=eq8K0mrbYlR2cDvJ-1&scaling=scale-down&mode=design
+https://www.figma.com/proto/wLEhpZgc7rShyAdkLuyxC1/Projects?page-id=0%3A1&type=design&node-id=403-9&viewport=-3412%2C-4488%2C0.14&t=WiNAyBi1RrkBYu2M-1&scaling=contain&starting-point-node-id=1%3A8&mode=design
 
 Overview :
 
