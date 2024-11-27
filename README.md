@@ -1,8 +1,11 @@
 # Carousel_scrolling_UI-FIGMA
 Created a beautiful carousel scroller using draging option.Animations are most basic part of this project.I'd used some basic animations and functions of FIGMA.
 
+# File link
+https://www.figma.com/design/x5xL29cnq8ryJPoh5rgTM6/Carousel_scrolling_UI?node-id=0-1&t=Z8riIncV2M3M0NmJ-1
+# Prototype
+https://www.figma.com/proto/x5xL29cnq8ryJPoh5rgTM6/Carousel_scrolling_UI?page-id=0%3A1&node-id=1-45&node-type=canvas&viewport=526%2C362%2C0.1&t=oGvBrWroAFpLpkfG-1&scaling=scale-down&content-scaling=fixed
 
-https://www.figma.com/proto/wLEhpZgc7rShyAdkLuyxC1/Projects?page-id=0%3A1&type=design&node-id=403-9&viewport=-3412%2C-4488%2C0.14&t=WiNAyBi1RrkBYu2M-1&scaling=contain&starting-point-node-id=1%3A8&mode=design
 
 Overview :
 
